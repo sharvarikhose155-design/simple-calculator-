@@ -12,7 +12,7 @@ def calculate_average(numbers):
 
 
 def main():
-    print("Simple Calculator")
+    print("Simple python Calculator")
 
     a = int(input("Enter first number: "))
     b = int(input("Enter second number: "))
